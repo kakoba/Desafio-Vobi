@@ -1,6 +1,6 @@
 #language: pt
 
-Funcionalidade: Login
+Funcionalidade: Cadastro de pessoa física e jurídica
     Sendo um usuário logado no sistema
     Quero acessar o sistema da Vobi
     Para que eu possa cadastrar um cliente
